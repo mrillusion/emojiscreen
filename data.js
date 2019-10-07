@@ -221,14 +221,6 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0286499/"
     },
     {
-        title: "Bend It Like Beckham",
-        emojiImgs: "🇮🇳🙎🏽‍♀️🙍🏽‍♂️🇬🇧⚽",
-        genres: ["comedy","drama","romance"],
-        type: "movie",
-        year: 2002,
-        itemLink: "https://www.imdb.com/title/tt0286499/"
-    },
-    {
         title: "The Big Bang Theory",
         emojiImgs: "🌍💻⚗🔭",
         genres: ["comedy", "romance"],
@@ -284,14 +276,6 @@ const emojiItems = [
       year: 2009,
       itemLink: "https://www.imdb.com/title/tt1370334/"
     },	
-    {
-        title: "Brave",
-        emojiImgs: "🏹🎯🛡️🐻",
-        genres: ["animation", "adventure", "comedy"],
-        type: "movie",
-        year: 2012,
-        itemLink: "https://www.imdb.com/title/tt1217209/"
-    },
     {
         title: "Brave",
         emojiImgs: "🏹🎯🛡️🐻",
@@ -810,7 +794,8 @@ const emojiItems = [
       type: "movie",
       year: 1998,
       itemLink: "https://www.imdb.com/title/tt0119223/"
-    },{
+    },
+    {
         title: "The Greatest Showman",
         emojiImgs: "🎩🕺🎪🔥🎶",
         genres: ["biography", "drama", "musical"],
@@ -1109,7 +1094,8 @@ const emojiItems = [
         type: "movie",
         year: 1986,
         itemLink: "https://www.imdb.com/title/tt0091326/"
-    },{
+    },
+    {
         title: "The Karate Kid",
         emojiImgs: "🤼‍♂️👦🏻👘",
         genres: ["action", "drama", "family"],
@@ -1152,7 +1138,8 @@ const emojiItems = [
         type: "movie",
         year: 1955,
         itemLink: "https://www.imdb.com/title/tt0048280/"
-    }, {
+    },
+    {
         title: "La La Land",
         emojiImgs: "👩👮💓",
         genres: ["romance", "drama", "musical"],
@@ -1183,14 +1170,6 @@ const emojiItems = [
         type: "musical",
         year: 1987,
         itemLink: "https://www.playbill.com/production/les-miserables-broadway-theatre-vault-0000012257"
-    },
-    {
-        title: "Passaport to Paris",
-        emojiImgs: "🎟✈🗼",
-        genres: ["comedy", "romance"],
-        type: "movie",
-        year: 1999,
-        itemLink: "https://www.imdb.com/title/tt0202521/"
     },
     {
         title: "Passaport to Paris",
@@ -1356,14 +1335,6 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0377092/"
     },
     {
-        title: "Mean Girls",
-        emojiImgs: "👚🏫📓🔥😏",
-        genres: ["movie", "comedy"],
-        type: "movie",
-        year: 2004,
-        itemLink: "https://www.imdb.com/title/tt0377092/"
-    },
-    {
         title: "Miss Saigon",
         emojiImgs: "🇻🇳💑🚁👶",
         genres: ["drama", "war", "musical"],
@@ -1411,13 +1382,6 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0203009/"
     },
     {
-        title: "Moonrise Kingdom",
-        emojiImgs: "⛺️🧳🌕👑",
-        genres: ["Comedy", "Drama", "Romance"],
-        itemLink: "https://www.imdb.com/title/tt1748122/",
-        type: "movie",
-        year: 2012
-    },{
         title: "Monty Python and the Holy Grail",
         emojiImgs: "🤵🐍⛪🍷",
         genres: ["comedy"],
@@ -1440,14 +1404,6 @@ const emojiItems = [
         type: "tv",
         year: 2015
     },{
-        title: "National Treasure",
-        emojiImgs: "🇺🇸🗝🏺🧭💰",
-        genres: ["action", "adventure", "mystery"],
-        type: "movie",
-        year: 2004,
-        itemLink: "https://www.imdb.com/title/tt0368891/"
-    },
-    {
         title: "National Treasure",
         emojiImgs: "🇺🇸🗝🏺🧭💰",
         genres: ["action", "adventure", "mystery"],
@@ -1595,7 +1551,8 @@ const emojiItems = [
         type: "tv",
         year: 1993,
         itemLink: "https://www.imdb.com/title/tt0106064/",
-    },{
+    },
+    {
         title: "The Powerpuff Girls",
         emojiImgs: "💪💨👭",
         genres: ["animation", "action", "comedy"],
@@ -1626,7 +1583,8 @@ const emojiItems = [
         type: "movie",
         year: 1996,
         itemLink: "https://www.imdb.com/title/tt0117372/"
-    },{
+    },
+    {
         title: "The Princess Diaries",
         emojiImgs: "👩‍🦰✈️🏰👑👸",
         genres: ["comedy", "family", "romance"],
@@ -1900,7 +1858,8 @@ const emojiItems = [
         type: "tv",
         year: 2005,
         itemLink: "https://www.imdb.com/title/tt0472023/"
-    },{
+    },
+    {
         title: "The Social Network",
         emojiImgs: "💻😐🌐👤",
         genres: ["biography", "drama"],
@@ -1996,14 +1955,16 @@ const emojiItems = [
         genres: ["drama", "romance"],
         type: "movie",
         year: 2005
-    },{
+    },
+    {
         title: "Titanic",
         emojiImgs: "💑❄🚢⬇️",
         genres: ["drama", "romance"],
         type: "movie",
         year: 1997,
         itemLink: "https://www.imdb.com/title/tt0120338/"
-    },{
+    },
+    {
         title: "The Wizard of Oz",
         emojiImgs: "🐶🌪️🤖🦁🧙‍",
         genres: ["adventure", "family", "fantasy"],
@@ -2026,14 +1987,6 @@ const emojiItems = [
 	    itemLink: "https://www.imdb.com/title/tt0092099/",
         type: "movie",
         year: 1986
-    },
-    {
-        title: "The Wizard of Oz",
-        emojiImgs: "🐶🌪️🤖🦁🧙‍",
-        genres: ["adventure", "family", "fantasy"],
-        itemLink: "https://www.imdb.com/title/tt0032138/",
-        type: "movie",
-        year: 1939
     },
     {
         title: "Tropic Thunder",
